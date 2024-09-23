@@ -1,0 +1,1 @@
+User [user_name=jainam, address=null, phone_no=Surat, email=jai12@gmail.com, password=Jai@12, ac_no=123456789111]
